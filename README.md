@@ -16,6 +16,8 @@
 <h2><strong>💻🖥️🌐 Front-End Development:</strong></h2>
 <p>
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <img alt="Nextjs" src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" />
+   <img alt="vite" src="https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -31,6 +33,7 @@
 <h2><strong>👨‍💻📂⚙️☁️ Back-End and Infrastructure:</strong></h2>
 <p>
  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
  <img alt="MS SQL" src="https://img.shields.io/badge/-MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
