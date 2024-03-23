@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page</h1>
+<h1><img src="https://github.com/Berkan-Bilgin/berkan-bilgin/blob/main/typekatq.gif" width="30"/> Welcome to my page</h1>
 
 
 <h2> I'm Berkan, a Software Developer from &nbsp <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="turkey_flag">  Turkey .
