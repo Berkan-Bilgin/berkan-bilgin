@@ -2,11 +2,14 @@
 
 ![](https://readme-typing-svg.herokuapp.com/?font=Inter&color=E5D352&size=20&weight=700&lines=Hi+I%27m+Berkan;Software+Developer+from+Turkey)
 
+
 <p>
-   I'm currently learning &nbsp
+   🔭 I'm currently learning &nbsp
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120" /> 
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4" /> .
 </p>
+<p>📫 How to reach me: <a href="mailto:berkan.bilgin.dev@gmail.com">berkan.bilgin.dev@gmail.com</a></p>
+
 
 
 <h3>Things I code with 🛠️</h3>
