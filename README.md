@@ -12,7 +12,7 @@
 
 
 
-<h3>Things I code with 🛠️</h3>
+<h3>🛠️ Things I code with </h3>
 <h2><strong>💻🖥️🌐 Front-End Development:</strong></h2>
 <p>
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -30,7 +30,7 @@
 </p>
 
 
-<h2><strong>👨‍💻📂⚙️☁️ Back-End and Infrastructure:</strong></h2>
+<h2><strong>📂⚙️☁️ Back-End and Infrastructure:</strong></h2>
 <p>
  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -47,6 +47,17 @@
  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
+
+## 📁 My Projects
+
+  Demo Link      |Libraries and Technologies I use     | Project Repo Link   
+:-------------------------|-------------------------|-------------------------
+[Live Link](https://guesschamp.online/)| Next.js, Zustand   | Guesschamp
+[Live Link](https://eventoria-front.vercel.app/)| React, Context, Vite   | [Event Finder](https://github.com/Berkan-Bilgin/Site-Front)
+[Live Link](https://ko-frontend-delta.vercel.app/)| React, Redux Toolkit,  Tailwind,  |[Rick & Morty API](https://github.com/Berkan-Bilgin/ko-frontend)
+[Live Link](https://rick-and-morty-case.vercel.app/)| React,  MUI, Autocomplete |[Rick & Morty Search](https://github.com/Berkan-Bilgin/rick-and-morty-case)
+[Live Link](https://benim-anime-listem.vercel.app/)| React,  Framer Motion |[Rick & Morty Search](https://github.com/Berkan-Bilgin/my-anime-list)
+
 
 
 
