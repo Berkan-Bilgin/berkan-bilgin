@@ -56,7 +56,7 @@
 [Live Link](https://eventoria-front.vercel.app/)| React, Context, Vite   | [Event Finder](https://github.com/Berkan-Bilgin/Site-Front)
 [Live Link](https://ko-frontend-delta.vercel.app/)| React, Redux Toolkit,  Tailwind,  |[Rick & Morty API](https://github.com/Berkan-Bilgin/ko-frontend)
 [Live Link](https://rick-and-morty-case.vercel.app/)| React,  MUI, Autocomplete |[Rick & Morty Search](https://github.com/Berkan-Bilgin/rick-and-morty-case)
-[Live Link](https://benim-anime-listem.vercel.app/)| React,  Framer Motion |[Rick & Morty Search](https://github.com/Berkan-Bilgin/my-anime-list)
+[Live Link](https://benim-anime-listem.vercel.app/)| React,  Framer Motion |[Anime List](https://github.com/Berkan-Bilgin/my-anime-list)
 
 
 
