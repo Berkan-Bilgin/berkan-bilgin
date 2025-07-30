@@ -58,6 +58,13 @@
 [Live Link](https://ko-frontend-delta.vercel.app/)| React, Redux Toolkit,  Tailwind,  |[Rick & Morty API](https://github.com/Berkan-Bilgin/ko-frontend)
 [Live Link](https://benim-anime-listem.vercel.app/)| React,  Framer Motion |[Anime List](https://github.com/Berkan-Bilgin/my-anime-list)
 
+## 📈 GitHub Stats
+
+![Berkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkan-Bilgin&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkan-Bilgin&layout=compact&theme=tokyonight)
+
+
 
 
 
